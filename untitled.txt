@@ -1,3 +1,4 @@
 https://stats.stackexchange.com/questions/277014/what-parameters-to-optimize-in-knn
 http://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/
 https://sebastianraschka.com/blog/2016/model-evaluation-selection-part3.html
+https://frnsys.com/ai_notes/machine_learning/model_selection.html
